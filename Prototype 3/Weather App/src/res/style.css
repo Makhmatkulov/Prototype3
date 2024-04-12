@@ -1,0 +1,75 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(bg-image.avif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: #000000;
+}
+
+
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #008cff;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: #d4dbdf;
+    color: #000000;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+h2 {
+    color: #000000;
+}
+
+p {
+    color: #000000;
+    margin: 10px 0;
+}
+nav {
+    padding: 10px;
+    margin: 0;
+}
+
+/* New styles for the search bar */
+#searchBar {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    width: 200px;
+}
+
+#searchButton {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #008cff;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#searchButton:hover {
+    background-color: #d4dbdf;
+    color: #000000;
+}
